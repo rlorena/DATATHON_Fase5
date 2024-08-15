@@ -1,0 +1,13 @@
+Variável;Tipo;Descrição;Fonte;
+cod_ibge;numérico;Código dos Municípios de São Paulo;Código oficial de 7 dígitos definido pelo IBGE para município;Instituto Brasileiro de Geografia e Estatística – IBGE 
+municipio;texto;Nome dos distritos do Município de São Paulo;Fundação Sistema Estadual de Análise de Dados – Seade;
+ano;texto;Ano de referência;Fundação Sistema Estadual de Análise de Dados – Seade;
+de_00a03anos;numérico;População residente de 0 a 3 anos de idade;Fundação Sistema Estadual de Análise de Dados – Seade;
+de_04e05anos;numérico;População residente de 4 e 5 anos de idade;Fundação Sistema Estadual de Análise de Dados – Seade;
+de_06a10anos;numérico;População residente de 6 a 10 anos de idade;Fundação Sistema Estadual de Análise de Dados – Seade;
+de_11a14anos;numérico;População residente de 11 a 14 anos de idade;Fundação Sistema Estadual de Análise de Dados – Seade;
+de_15a17anos;numérico;População residente de 15 a 17 anos de idade;Fundação Sistema Estadual de Análise de Dados – Seade;
+populacao_total;numérico;População residente total;Fundação Sistema Estadual de Análise de Dados – Seade;
+ate17anos;numérico;População residente de 0 a 17 anos de idade;Fundação Sistema Estadual de Análise de Dados – Seade;
+demais_idades;numérico;População residente de 18 anos e mais de idade;Fundação Sistema Estadual de Análise de Dados – Seade;
+partic_ate17anos;numérico;Participação percentual da população residente de 0 a 17 anos no total da população;Fundação Sistema Estadual de Análise de Dados – Seade;

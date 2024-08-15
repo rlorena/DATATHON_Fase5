@@ -1,0 +1,6 @@
+Variável;Tipo;Descrição;Fonte;Ano
+cod_ibge;numérico;Nome da localidade;Instituto Brasileiro de Geografia e Estatística – IBGE;2020
+ano;numérico;Tipo de rede escolar;Índice de Desenvolvimento da Educação Básica, 2019/INEP.;2019
+rede;texto;Tipo de rede escolar;Índice de Desenvolvimento da Educação Básica, 2019/INEP.;2019
+nivel_escolar;texto;Nivel escolar;Índice de Desenvolvimento da Educação Básica, 2019/INEP.;2019
+matriculas;numérico;Matriculas escolares;Índice de Desenvolvimento da Educação Básica, 2019/INEP.;2019

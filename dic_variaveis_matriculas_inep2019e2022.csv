@@ -1,0 +1,10 @@
+variavel;tipo;descricao;fonte
+nu_ano_censo;numérico;Ano de Referência;Ministério da Educação (INEP)
+cod_ibge;numérico;Código do município IBGE (7 dígitos);IBGE
+tp_modalidade_ensino;texto;Modalidade de ensino (EAD ou Presencial);Ministério da Educação (INEP)
+co_ies;numérico;Código da Instituição de Educação Superior;Ministério da Educação (INEP)
+tp_rede;texto;Categoria administrativa (Privada ou Pública);Ministério da Educação (INEP)
+co_cine_rotulo;texto;Código do curso adaptado conforme Classificação Internacional Normalizada da Educação Cine/Unesco;Ministério da Educação (INEP)
+grau_academico;texto;Grau acadêmico (Bacharelado, Licenciatura, Tecnológico ou Não aplica);Ministério da Educação (INEP)
+sexo;texto;Sexo (Feminino ou Masculino);Ministério da Educação (INEP)
+n_matricula;numérico;Quantidade de matrículas;Ministério da Educação (INEP)
